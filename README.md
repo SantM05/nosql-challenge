@@ -14,4 +14,6 @@ nosql-challenge
 ######                value = value[key]
 
 #### Code: NoSQL_analysis_starter
-###### Syntaxis errors found on the following code snipet were rectified with Xpert Learning Assistant 
+###### Syntaxis errors found on the following code snipet were rectified with Xpert Learning Assistant " query = {'RatingValue': 5,
+######    'geocode.latitude': {'$gte': latitude - degree_search, '$lte': latitude + degree_search},
+######    'geocode.longitude': {'$gte': longitude - degree_search, '$lte': longitude + degree_search}
